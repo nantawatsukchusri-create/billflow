@@ -1,0 +1,8 @@
+{
+  "name": "billflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BillFlow shared billing application",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"}
+}
